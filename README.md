@@ -8,7 +8,7 @@
 </h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+science+student;Firmware+and+Software+Developer;Future+Software+Engineer;IT+Passionned">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+science+student;Firmware+and+Software+Developer;Future+Software+Engineer;IT+Passionate">
   </a>
 </p>
 
@@ -53,6 +53,7 @@
    &emsp;
     <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 
+  <br>
   <br>
 
   &emsp;
