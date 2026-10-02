@@ -8,7 +8,7 @@
 </h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+science+student;Full+Stack+Developer;Future+Software+Engineer;IT+Passionate;No+ennemies">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+science+student;Full+Stack+Developer;Future+Software+Engineer;IT+Passionate;No+ennemies;IA+Architect">
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 <a href="https://github.com/PennecStv">
 	<img src="https://github-readme-stats.vercel.app/api?username=PennecStv&theme=github_dark&show_icons=true&hide_border=true&count_private=true&rank_icon=github" />
 </a>
-</div> 
+</div>
 
 ## Languages and Frameworks
 
@@ -56,37 +56,48 @@
   <br>
   <br>
 
-  &emsp;
-  <a href="https://flutter.dev/" target="_blank"> 
-     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-   </a>
-   &emsp;
-  <a href="https://fr.legacy.reactjs.org/" target="_blank"> 
-     <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-   </a>
-   &emsp;
-  <a href="https://angular.io/" target="_blank"> 
-     <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-   </a>
-   &emsp;
-  <a href="https://nodejs.org/" target="_blank"> 
-     <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-   </a>
-   &emsp;
-  <a href="https://symfony.com/" target="_blank"> 
-     <img alt="Symphony" src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white">
-   </a>
+&emsp;
+<a href="https://flutter.dev/" target="_blank">
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+</a>
+&emsp;
+<a href="https://fr.legacy.reactjs.org/" target="_blank">
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</a>
+&emsp;
+<a href="https://angular.io/" target="_blank">
+<img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+</a>
+&emsp;
+<a href="https://nodejs.org/" target="_blank">
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+</a>
+&emsp;
+<a href="https://symfony.com/" target="_blank">
+<img alt="Symphony" src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white">
+</a>
 
   <br>
 
-   &emsp;
-    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-   &emsp;
-    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-   &emsp;
-    <img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white"/>
-   &emsp;
-    <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+&emsp;
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+&emsp;
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+&emsp;
+<img alt="Neo4j" src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white"/>
+&emsp;
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+
+  <br>
+  <br>
+
+&emsp;
+<img alt="Copilot" src="https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff"/>
+&emsp;
+<img alt="Claude" src="https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff"/>
+&emsp;
+<img alt="ChatGPT" src="https://custom-icon-badges.demolab.com/badge/ChatGPT-74aa9c?logo=openai&logoColor=white"/>
+
 </div>
 
 <br/>
@@ -108,5 +119,3 @@
     <img alt="Discord" src="https://img.shields.io/badge/dibosan-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
 </div>
-
-
